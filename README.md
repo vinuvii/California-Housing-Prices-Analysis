@@ -20,7 +20,7 @@ The dataset is sourced from [Kaggle](https://www.kaggle.com/datasets/camnugent/c
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/california-housing-prices-analysis.git
+   git clone https://github.com/vinuvii/California-Housing-Prices-Aanalysis.git
    cd california-housing-prices-analysis
    ```
 
